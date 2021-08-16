@@ -25,3 +25,5 @@
 # Apex
 PRODUCT_HOST_PACKAGES += \
     libandroidicu
+
+LOCAL_PATH := device/samsung/a52q
